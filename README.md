@@ -7,14 +7,15 @@
 
 ### Install
 ``` 
-npm install --save  only-one-tab
+npm i @iammouaz/only-one-tab 
 ```
 
 
 ### Usage
 
 ``` 
-import OnlyOneTab from 'only-one-tab'
+import OnlyOneTab from '@iammouaz/only-one-tab'
+
 ```
 
 and Wrap the App or the route with it 
