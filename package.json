@@ -65,5 +65,8 @@
   },
   "dependencies": {
     "uuid": "^9.0.0"
+  },
+  "publishConfig": {
+    "@iammouaz:registry": "https://npm.pkg.github.com"
   }
 }
