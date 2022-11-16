@@ -35,6 +35,10 @@
   },
   "name": "@iammouaz/only-one-tab",
   "author": "Mouaz El Molkey",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iammouaz/only-one-tab.git"
+  },
   "bugs": {
     "url": "https://github.com/iammouaz/only-one-tab/issues"
   },
