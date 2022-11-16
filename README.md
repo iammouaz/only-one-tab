@@ -1,6 +1,10 @@
 
 # Only One Tab
 
+[![standard badge](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) 
+[![npm](https://img.shields.io/npm/v/only-one-tab.svg)](https://www.npmjs.com/package/only-one-tab)
+
+
 > You can run your react project only in one tab.
 
 
@@ -28,7 +32,7 @@ and Wrap the App or the route with it
 
 ### Props
 
-You can Pass ```Massage="This is the error text"``` to the provider
+You can Pass ```Massage="This is the error text"``` as String or as JSX Elements  ```Massage={<ErrorMassge />}``` to the provider
 
 ## 🤝 Contributing
 

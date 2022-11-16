@@ -35,6 +35,11 @@
   },
   "name": "@iammouaz/only-one-tab",
   "author": "Mouaz El Molkey",
+  "bugs": {
+    "url": "https://github.com/iammouaz/only-one-tab/issues"
+  },
+  "homepage": "https://github.com/iammouaz/only-one-tab",
+
   "module": "dist/only-one-tab.esm.js",
   "size-limit": [
     {

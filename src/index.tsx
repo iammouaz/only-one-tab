@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from 'uuid';
 
 interface OnlyOneTabProps {
   children: ReactElement;
-  massage?: string;
+  massage?: string | JSX.Element;
 }
 
 const OnlyOneTab: React.FunctionComponent<OnlyOneTabProps> = ({
