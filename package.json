@@ -1,5 +1,5 @@
 {
-  "version": "2.3.0",
+  "version": "2.4.0",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -39,7 +39,6 @@
     "url": "https://github.com/iammouaz/only-one-tab/issues"
   },
   "homepage": "https://github.com/iammouaz/only-one-tab",
-
   "module": "dist/only-one-tab.esm.js",
   "size-limit": [
     {
