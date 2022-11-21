@@ -56,7 +56,11 @@
   ],
   "keywords": [
     "only one tab",
-    "react one tab"
+    "react one tab",
+    "tabs",
+    "spa-tabs",
+    "one-tab-enforce"
+
   ],
   "devDependencies": {
     "@size-limit/preset-small-lib": "^8.1.0",

@@ -5,7 +5,7 @@
 [![npm](https://img.shields.io/npm/v/only-one-tab.svg)](https://www.npmjs.com/package/only-one-tab)
 
 
-> You can run your react project only in one tab.
+> Prevent react app to open in multiple tabs at the same time.
 
 
 
